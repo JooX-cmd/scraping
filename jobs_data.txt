@@ -1,0 +1,316 @@
+Job Title,Company Name,Location,Job Type
+IT & AI Engineer,Confidential -,"New Cairo, Cairo, Egypt ",Full Time
+AI Knowledge Systems & RAG Engineering Intern,Integrated Knowledge Dynamics -,"Nasr City, Cairo, Egypt ",Internship
+Junior AI Engineer – Computer Vision & 3D Visual Perception,Geopro -,"Nasr City, Cairo, Egypt ",Full Time
+Head of AI & Clinical Language Systems,Confidential -,"Maadi, Cairo, Egypt ",Full Time
+AI Engineer,Electro Pi -,"Maadi, Cairo, Egypt ",Full Time
+Prompt Engineer,AIContentfy -,"Maadi, Cairo, Egypt ",Full Time
+Principal AI Architect (Optimization & Decision Intelligence),Makkook.AI -,"Cairo, Egypt ",Full Time
+Data Engineer,Sana Commerce -,"Alexandria, Egypt ",Full Time
+Software Engineer,Devency    -,"Nozha, Cairo, Egypt ",Full Time
+Backend Engineer (Mid-Level),Seha Care -,"Sheraton, Cairo, Egypt ",Full Time
+AI & Data,Global Brands -,"Cairo, Egypt ",Internship
+Business Development Executive – AI Solutions,Barkotel -,"Sheraton, Cairo, Egypt ",Full Time
+AI-Driven Growth Operator,Confidential -,"Red Sea, Egypt ",Full Time
+Data Scientist – Computer Vision & Financial Intelligence,Erada -,"Maadi, Cairo, Egypt ",Full Time
+"Automation workflow developer (n8n / Zapier / Make) - Remote, Full-Time",Confidential -,"Richmond, United States ",Full Time
+Backend Engineer (Python / AI & ML Focus),Tutanic -,"Smouha, Alexandria, Egypt ",Full Time
+Lead AI Inference Engineer (100% Remote),Tether.to -,"Dubai, United Arab Emirates ",Full Time
+Senior Sales Engineer - Data & AI Security,Veeam Software -,"Riyadh, Saudi Arabia ",Full Time
+AI Lead,Efada Technology -,"New Cairo, Cairo, Egypt ",Full Time
+Applied AI Engineer - Dubai,Snorkel AI -,"Dubai, United Arab Emirates ",Full Time
+AI Developer,Genesis AI -,"Cairo, Egypt ",Full Time
+Software Engineer (Technical Content),"CC Global Group, LLC -","New Cairo, Cairo, Egypt ",Full Time
+Lead Solutions Architect – Cloud Sovereignty & AI,Confidential Government -,"Riyadh, Saudi Arabia ",Full Time
+"AI Conversational Designer (Bangkok-Based, Relocation Provided)",Agoda -,"Riyadh, Saudi Arabia ",Full Time
+"AI Security Researcher (Bangkok Based, Relocation provided)",Agoda -,"Riyadh, Saudi Arabia ",Full Time
+Project Manager - AI,Kyndryl -,"Dubai, United Arab Emirates ",Full Time
+Technical Solutions Professional - Data & AI,Alnafitha International for Information Technology -,"Riyadh, Saudi Arabia ",Full Time
+Associate AI Lab - Data Scientist,Mubadala -,"Dubai, United Arab Emirates ",Full Time
+AI Project Manager,Energy Job Search -,"Riyadh, Saudi Arabia ",Full Time
+UX/UI Designer 'AI-Powered' (On-site in Dubai),Puffy -,"Dubai, United Arab Emirates ",Full Time
+Agentic AI Pro‑Code Developer,Sulava MEA -,"Dubai, United Arab Emirates ",Full Time
+Software Engineer,Ayra AI -,"Cairo, Egypt ",Full Time
+"Manager, Integrated data, AI & analytics platform",Ma'aden -,"Riyadh, Saudi Arabia ",Full Time
+Industrial AI & Data Technical Lead,Capgemini Engineering -,"Riyadh, Saudi Arabia ",Full Time
+Product Manager - AI,Canonical -,"Riyadh, Saudi Arabia ",Full Time
+"Senior Software Engineer, LearnWith.AI (Remote) - $100,000/year USD",Crossover -,"Dubai, United Arab Emirates ",Full Time
+React Native Engineer,ROVIN -,"Abu Dhabi, United Arab Emirates ",Full Time
+Software Engineering Instructor,Pyramakerz -,"Cairo, Egypt ",Full Time
+AI & Automation Specialist,Talent 360 ME -,"Riyadh, Saudi Arabia ",Full Time
+"Head of CRM (Next-Gen, AI-Driven)",The Customization Group -,"Dubai, United Arab Emirates ",Full Time
+Data & AI Analyst - Emiratization & UAE Talent Development | Strategy & Consulting,Accenture Middle East -,"Dubai, United Arab Emirates ",Full Time
+Delivery Manager (Enterprise AI & ERP Solutions),Inception -,"Dubai, United Arab Emirates ",Full Time
+Machine Learning Engineer,StoryGold -,"San Francisco, United States ",Full Time
+Senior Full Stack Engineer,Confidential -,"Cairo, Egypt ",Full Time
+Pre Sales Director (Agentic AI Platform),Robert Walters -,"Riyadh, Saudi Arabia ",Full Time
+AI Engineer,SMETOOLS -,"New Cairo, Cairo, Egypt ",Full Time
+Senior Automation & AI Manager,Careem -,"Dubai, United Arab Emirates ",Full Time
+Full Stack Developer,EglobalSphere -,"Giza, Egypt ",Full Time
+DevOps Engineer,ROVIN -,"Abu Dhabi, United Arab Emirates ",Full Time
+BIM360 ACC Support Consultant,RISEUP (Endemag for Administrative Skills Development) -,"Maadi, Cairo, Egypt ",Full Time
+Architect / Interior Designer,Artova -,"Sheikh Zayed, Giza, Egypt ",Full Time
+"Full Stack Developer, LearnWith.AI (Remote) - $100,000/year USD",Crossover -,"Dubai, United Arab Emirates ",Full Time
+"Software Engineer (Backend, Quality-Focused)",Confidential -,"Cairo, Egypt ",Full Time
+Business AI Coordinator, Roaya -,"Maadi, Cairo, Egypt ",Full Time
+Senior Data Engineer,Vertex Technologies  -,"Cairo, Egypt ",Full Time
+Research Assistant - AI,"United Arab Emirates University, Department of Family Medicine -","Dubai, United Arab Emirates ",Full Time
+Supply chain Continuous Improvement Engineer,Pharco Corporation -,"Ameria, Alexandria, Egypt ",Full Time
+Junior Automation QA Engineer,Vertex Technologies  -,"Cairo, Egypt ",Full Time
+Frontend Engineer (Vue.js),Tototheo Global -,"Cairo, Egypt ",Full Time
+Senior Backend Engineer,Confidential -,"Maadi, Cairo, Egypt ",Full Time
+Senior Backend / Architect Engineer (.NET / Azure),Confidential -,"Cairo, Egypt ",Full Time
+Lead Data Scientist – National AI & Predictive Analytics,Confidential Government -,"Riyadh, Saudi Arabia ",Full Time
+Engagement Manager – AI & Business Transformation,New Metrics -,"Riyadh, Saudi Arabia ",Full Time
+AI Business Partner – Project Management Services (PMS),WSP in the Middle East -,"Riyadh, Saudi Arabia ",Full Time
+Senior AI Product Manager,HudHud Maps -,"Riyadh, Saudi Arabia ",Full Time
+HR Business Lead | AI & Talent Innovation Startup,Aikho -,"Dubai, United Arab Emirates ",Full Time
+AI Specialist,Celine co. -,"10th of Ramadan City, Sharqia, Egypt ",Full Time
+Technical Recruiter,Efada Technology -,"New Cairo, Cairo, Egypt ",Full Time
+Procurement Engineer,Petro-Teq for industrial solution -,"Smouha, Alexandria, Egypt ",Full Time
+"Artificial Intelligence Engineer, IgniteTech (Remote) - $100,000/year USD",Crossover -,"Dubai, United Arab Emirates ",Full Time
+Research Scientist (Remote),Nexus Consulting -,"Dubai, United Arab Emirates ",Freelance / Project
+Software Alliance Ecosystem Manager,Canonical -,"Makkah, Saudi Arabia ",Full Time
+Enterprise Data Architect,Frameworks and Methodologies Businesses (FMB) -,"Riyadh, Saudi Arabia ",Full Time
+Tech Lead,Cognizant -,"Dubai, United Arab Emirates ",Full Time
+Software Engineer Manager - Python,Agency -,"Cairo, Egypt ",Full Time
+Postdoctoral Researcher in Computer Vision and Geospatial Analytics,IBM -,"Riyadh, Saudi Arabia ",Full Time
+Meet Your Next Hire at RISEUP SUMMIT 2026,WUZZUF -,"Cairo, Egypt ",Event
+Female Breast Radiologist (American Board / UK CCT) - Dubai,Allocation Assist Middle East -,"Dubai, United Arab Emirates ",Full Time
+Product Manager,Genesis AI -,"Cairo, Egypt ",Full Time
+AI Product Owner.Injaz - Artificial Intelligence.MIT,Mashreq Corporate & Investment Banking Group -,"Dubai, United Arab Emirates ",Full Time
+UI/UX Engineer,Daam  -,"Maadi, Cairo, Egypt ",Full Time
+Full Stack Developer,InfoPeak Software   -,"Maadi, Cairo, Egypt ",Full Time
+Junior Application Support Engineer,Lumin -,"6th of October, Giza, Egypt ",Full Time
+B2B Marketing Specialist,Farinas Marketing Services   -,"Cairo, Egypt ",Full Time
+Platform Engineer (Full-Stack / DevOps Hybrid),Tutanic -,"Smouha, Alexandria, Egypt ",Full Time
+Backend Developer (Laravel),Bright Creations -,"Smart Village, Giza, Egypt ",Full Time
+Frontend Engineer (React / TypeScript),Tutanic -,"Smouha, Alexandria, Egypt ",Full Time
+Backend Engineer (Node.js / API & Microservices),Tutanic -,"Smouha, Alexandria, Egypt ",Full Time
+PMC Process Engineer (Detailed Engineering & Execution),Perle -,"Riyadh, Saudi Arabia ",Full Time
+PMC Civil & Structural Engineer (Detailed Engineering & Execution),Perle -,"Riyadh, Saudi Arabia ",Full Time
+PMC Electrical Engineer (Detailed Engineering & Execution),Perle -,"Riyadh, Saudi Arabia ",Full Time
+PMC Piping Engineer (Detailed Engineering & Execution),Perle -,"Riyadh, Saudi Arabia ",Full Time
+PMC Instrumentation & Control Engineer (Detailed Engineering & Execution),Perle -,"Riyadh, Saudi Arabia ",Full Time
+PMC Mechanical Engineer (Detailed Engineering & Execution),Perle -,"Riyadh, Saudi Arabia ",Full Time
+Civil Engineering Technician (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Electrical Design Engineer (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Electronics Engineers (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Manager - Product Engineering,POWERTECH -,"Dubai, United Arab Emirates ",Full Time
+Senior Engineer – Energy Transition & Infrastructure,Perle -,"Riyadh, Saudi Arabia ",Full Time
+Civil Engineering Technician (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Security Engineer,Vectra AI -,"Riyadh, Saudi Arabia ",Full Time
+Lead Engineer,Zywa -,"Dubai, United Arab Emirates ",Full Time
+FrontEnd Software Engineer (Remote),Keystone Recruitment -,"Riyadh, Saudi Arabia ",Freelance / Project
+Lead Data Governance Engineer,Canonical -,"Riyadh, Saudi Arabia ",Full Time
+FrontEnd Engineer - Angular,Fathom.io -,"Riyadh, Saudi Arabia ",Full Time
+Junior Linux Kernel Engineer - Ubuntu,Canonical -,"Makkah, Saudi Arabia ",Full Time
+Data Engineer II,Mozn -,"Riyadh, Saudi Arabia ",Full Time
+Software Engineer - Solutions Engineering,Canonical -,"Riyadh, Saudi Arabia ",Full Time
+Data Scientist (NLP Deep Learning Engineer),Revolut -,"Dubai, United Arab Emirates ",Full Time
+"Dedicated Cloud Support Engineer, Saudi Arabia",Canonical -,"Makkah, Saudi Arabia ",Full Time
+Automation Test Engineer,Infosys -,"Riyadh, Saudi Arabia ",Full Time
+"Software Engineer, Backend (Golang)",1inch -,"Dubai, United Arab Emirates ",Full Time
+Forward Deployed Engineer | New Graduate,Gecko Robotics -,"Dubai, United Arab Emirates ",Full Time
+Software Engineer - Go - Container Images,Canonical -,"Makkah, Saudi Arabia ",Full Time
+Linux Desktop & Devices Support Engineer,Canonical -,"Makkah, Saudi Arabia ",Full Time
+Chief Technology Officer,Smart Gate Solutions -,"Maadi, Cairo, Egypt ",Full Time
+Lead Electrical Engineer - Extra High Voltage (EHV),"KBR, Inc. -","Riyadh, Saudi Arabia ",Full Time
+Proposal Engineer (Medium Voltage Switchgear) @ Siemens Abu Dhabi,Siemens -,"Dubai, United Arab Emirates ",Full Time
+Backend Engineer [UAE Nationals],AI71 -,"Dubai, United Arab Emirates ",Full Time
+Senior Data Engineer | Dubai,Moove -,"Dubai, United Arab Emirates ",Full Time
+Engineering Manager - Data Platform,Canonical -,"Riyadh, Saudi Arabia ",Full Time
+AI Engineer,U X E SECURITY SOLUTIONS L.L.C -,"Dubai, United Arab Emirates ",Full Time
+QA Automation Engineer- Arabic Speakers,Dicetek LLC -,"Dubai, United Arab Emirates ",Freelance / Project
+Head Of Technology,Saudi Tracking Solutions -,"Cairo, Egypt ",Full Time
+Alliances Field Engineer,Canonical -,"Riyadh, Saudi Arabia ",Full Time
+Solutions Engineer -  Riyadh KSA,Cisco -,"Riyadh, Saudi Arabia ",Full Time
+"Vice President of Product Engineering, 2 Hour Learning (Remote) - $400,000/year USD",Crossover -,"Dubai, United Arab Emirates ",Full Time
+Machine Learning Engineer,Mozn -,"Riyadh, Saudi Arabia ",Full Time
+Data Engineer – Data Warehouse / Lakehouse,Global Solutions - GS Oman -,"Muscat, Oman ",Full Time
+Senior Data Engineer – Data Warehouse / Lakehouse,Global Solutions - GS Oman -,"Muscat, Oman ",Full Time
+"Salesforce/NetSuite Engineering Manager, Commercial Systems",Canonical -,"Dubai, United Arab Emirates ",Full Time
+AE - Document Controller,Energy Job Search -,"Dubai, United Arab Emirates ",Full Time
+Manager - Solution Engineering,Inception -,"Dubai, United Arab Emirates ",Full Time
+IT Helpdesk Engineer,Tamara -,"Riyadh, Saudi Arabia ",Full Time
+ISG Mechanical Engineering Manager,Lenovo -,"Riyadh, Saudi Arabia ",Full Time
+ISG Mfg Program Management Engineering Manager,Lenovo -,"Riyadh, Saudi Arabia ",Full Time
+Systems Engineer,RUCKUS Networks -,"Dubai, United Arab Emirates ",Full Time
+Space Infrastructure Software Engineer,Orbitworks -,"Dubai, United Arab Emirates ",Full Time
+Senior Full Stack Developer (.NET and Angular),DEVOPSOLUTION -,"Nasr City, Cairo, Egypt ",Full Time
+"QA Automation Engineer (Riyadh, KSA)",FileCloud -,"Riyadh, Saudi Arabia ",Full Time
+GitOps Engineering Manager,Canonical -,"Riyadh, Saudi Arabia ",Full Time
+HPC Software Engineer,Canonical -,"Dubai, United Arab Emirates ",Full Time
+Software Engineer - Python - Container Images,Canonical -,"Riyadh, Saudi Arabia ",Full Time
+DEVOPS ENGINEER (REMOTE),Jobgether -,"Dubai, United Arab Emirates ",Full Time
+Field Service Engineer,Hitachi Energy -,"Dubai, United Arab Emirates ",Full Time
+Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels),Canonical -,"Riyadh, Saudi Arabia ",Full Time
+Technology Solutions Advisor (Pre-Sales),MegaSoft -,"Heliopolis, Cairo, Egypt ",Full Time
+Lead Testing & Commissioning Engineer,Energy Job Search -,"Dubai, United Arab Emirates ",Full Time
+Engineering Manager- Ceph & Distributed Storage,Canonical -,"Dubai, United Arab Emirates ",Full Time
+Field Support Engineer,ParamInfo -,"Ras al-Khaimah, United Arab Emirates ",Full Time
+Lead of Engineering - Remote,Jobgether -,"Riyadh, Saudi Arabia ",Full Time
+Technical Content Writer (Developer Blogs & Tutorials – B2B SaaS),"CC Global Group, LLC -","New Cairo, Cairo, Egypt ",Full Time
+Software Engineer - Data Infrastructure,Canonical -,"Makkah, Saudi Arabia ",Full Time
+"Python Engineering Manager, Commercial Systems",Canonical -,"Riyadh, Saudi Arabia ",Full Time
+Engineering Manager - Core Services,Kraken -,"Dubai, United Arab Emirates ",Full Time
+Applied AI Engineer,Deriv -,"Dubai, United Arab Emirates ",Full Time
+Research Engineer Intern,GenBio AI -,"Dubai, United Arab Emirates ",Full Time
+Data Scientist - Engineering & Architecture,AECOM -,"Dubai, United Arab Emirates ",Full Time
+"Senior Software Engineer, UAE (Contract to Hire)",odiggo -,"Dubai, United Arab Emirates ",Freelance / Project
+Software Engineer - App Stores,Canonical -,"Riyadh, Saudi Arabia ",Full Time
+Product Portfolio Manager,Confidential -,"Giza, Giza, Egypt ",Full Time
+"Senior Quality Assurance Automation Engineer, IgniteTech (Remote) - $100,000/year USD",Crossover -,"Dubai, United Arab Emirates ",Full Time
+Senior Network Operations Engineer (Core42),Core42 -,"Dubai, United Arab Emirates ",Full Time
+Lead Engineer - HPC Operations (Core42),Core42 -,"Dubai, United Arab Emirates ",Full Time
+Product Owner - Operations AI & Digital Transformation M/F,Allianz Partners -,"Dubai, United Arab Emirates ",Full Time
+Head of Training,Foreground. -,"Riyadh, Saudi Arabia ",Full Time
+Medical Specialist (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Economics Professor (Remote),Nexus Consulting -,"Dubai, United Arab Emirates ",Freelance / Project
+Program Manager (Non-Profit) - Remote,Nexus Consulting -,"Dubai, United Arab Emirates ",Freelance / Project
+Mechatronics Technician (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Project Manager,Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Claims Associate (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Research Assistant (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Chief Executive Officer (CEO/Founder),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Geology Field Technician (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+GIS Specialist  (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Agricultural Scientist (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+H R Consultant (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Public Health Coordinator (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Casino Operations Manager (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Banking Operations Lead (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Systems Administrator (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+EHS Specialist (Remote),Nexus Consulting -,"Riyadh, Saudi Arabia ",Freelance / Project
+Medical Specialist (Remote),Keystone Recruitment -,"Riyadh, Saudi Arabia ",Freelance / Project
+Safety Officer (Contract) - Dubai,WeRide -,"Dubai, United Arab Emirates ",Part Time
+Product Validation Expert (Remote),Keystone Recruitment -,"Riyadh, Saudi Arabia ",Freelance / Project
+Safety Officer (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Research Assistant (Remote),Keystone Recruitment -,"Riyadh, Saudi Arabia ",Freelance / Project
+Chief Executive Officer (CEO/Founder),Keystone Recruitment -,"Riyadh, Saudi Arabia ",Freelance / Project
+Consultant,Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Program Manager (Non-Profit) - Remote,Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Operations Managers (Remote),Keystone Recruitment -,"Riyadh, Saudi Arabia ",Freelance / Project
+Casino Operations Manager (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Banking Operations Lead (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Graduate – Artificial Intelligence (Emirati National),WSP in the Middle East -,"Dubai, United Arab Emirates ",Full Time
+Founding GTM Lead,Zywa -,"Dubai, United Arab Emirates ",Full Time
+Business Development Representative (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+IT Project Manager,SoftwareOne -,"Riyadh, Saudi Arabia ",Full Time
+Program Manager,Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+GIS Specialist  (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Systems Administrator (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+H R Consultant (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Project Manager,Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+"Principal Account Executive, AWS Public Sector Saudi Arabia",Amazon Web Services (AWS) -,"Riyadh, Saudi Arabia ",Full Time
+Project Manager (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Certified Occupational Therapy Assistant (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+EHS Specialist (Remote),Keystone Recruitment -,"Dubai, United Arab Emirates ",Freelance / Project
+Senior Account Specialist [Sales],Envision Employment Solutions -,"Riyadh, Saudi Arabia ",Full Time
+Data Scientist,1inch -,"Dubai, United Arab Emirates ",Full Time
+Linux Cryptography and Security Engineer,Canonical -,"Dubai, United Arab Emirates ",Full Time
+Research Assistant (Remote),PULSE MEDIA (MENA REGION) -,"Riyadh, Saudi Arabia ",Full Time
+"Senior Account Executive, Saudi FSI Market",Mozn -,"Riyadh, Saudi Arabia ",Full Time
+Director Sales,Abacus -,"Tabuk, Saudi Arabia ",Full Time
+Vice President of Global Sales,CASABOT® -,"Dubai, United Arab Emirates ",Freelance / Project
+Partner Sales Manager - IHV Alliances,Canonical -,"Makkah, Saudi Arabia ",Full Time
+"Director of Business Development, Middle East",Shield AI -,"Dubai, United Arab Emirates ",Full Time
+Presales Lead/Solution Architect,Harrison.ai -,"Riyadh, Saudi Arabia ",Full Time
+IT Applications Manager,Union Properties Career -,"Dubai, United Arab Emirates ",Full Time
+Business Development Manager- (Robotaxi experience is a must),Beyond-ED -,"Dubai, United Arab Emirates ",Full Time
+Entry-Level IT Support Staff,OnHires -,"Dubai, United Arab Emirates ",Full Time
+Renewals Specialist,Cisco -,"Riyadh, Saudi Arabia ",Full Time
+Program Manager - Testing,Netcracker Technology -,"Dubai, United Arab Emirates ",Full Time
+"Senior Vice President, Client Strategist",BNY -,"Riyadh, Saudi Arabia ",Full Time
+Customer Success Manager - Dubai,Datadog -,"Dubai, United Arab Emirates ",Full Time
+Business Development Manager,"Super Micro Computer Spain, S.L. -","Dubai, United Arab Emirates ",Full Time
+Services Presales Consultant,Dell Technologies -,"Riyadh, Saudi Arabia ",Full Time
+Project Scheduler,Larsen & Toubro -,"Riyadh, Saudi Arabia ",Full Time
+PYTHON DEVELOPER,Capital Motion UAE -,"Dubai, United Arab Emirates ",Full Time
+Process Functional Consultant and Solution Architect - SAP Master Data Governance,IBM -,"Riyadh, Saudi Arabia ",Full Time
+City Manager (KSA),Calo Inc. -,"Riyadh, Saudi Arabia ",Full Time
+Manager | Integration Architect | Jordan,Deloitte -,"Riyadh, Saudi Arabia ",Full Time
+Manager | DevOps Architect | Jordan,Deloitte -,"Riyadh, Saudi Arabia ",Full Time
+Interesting Job Opportunity: Senior Backend Developer - C#/.Net Technologies,Massil Technologies -,"Riyadh, Saudi Arabia ",Full Time
+Wellness Support Lead,Nextcare -,"Dubai, United Arab Emirates ",Full Time
+Senior Solutions Architect - REMOTE,Jobgether -,"Dubai, United Arab Emirates ",Full Time
+Senior Customer Success Manager - KSA,Sully.ai -,"Riyadh, Saudi Arabia ",Full Time
+Customer Success Manager,UiPath -,"Riyadh, Saudi Arabia ",Full Time
+Lead Operations Manager - REMOTE,Jobgether -,"Dubai, United Arab Emirates ",Full Time
+Senior Applied Scientist,Inception -,"Dubai, United Arab Emirates ",Full Time
+Automation Specialist (Zapier / n8n),Confidential -,"Maadi, Cairo, Egypt ",Part Time
+Solution Architect – Agentic Systems,XenonStack Moments -,"Dubai, United Arab Emirates ",Full Time
+Contract Recruiting / HR Operations Coordinator,Cognition -,"Riyadh, Saudi Arabia ",Freelance / Project
+Business Development Manager,UpstackAI -,"Dubai, United Arab Emirates ",Full Time
+Sales Manager,Maids.cc - AI & Tech -,"Riyadh, Saudi Arabia ",Full Time
+Mobile Application Lead,Maaloomatiia -,"Dubai, United Arab Emirates ",Full Time
+"Business Analyst, Sr",Globant -,"Riyadh, Saudi Arabia ",Full Time
+ASP.Net Developer,Erpplus5 -,"Maadi, Cairo, Egypt ",Full Time
+Technology Strategy/Enterprise Architect Senior Manager- Oil & Gas/Utilities,Accenture Middle East -,"Riyadh, Saudi Arabia ",Full Time
+3D Artist,Analog -,"Dubai, United Arab Emirates ",Full Time
+Expert Labs Delivery Consultant - Early Professional Automation,IBM -,"Riyadh, Saudi Arabia ",Full Time
+Expert Labs Delivery Consultant - Early Professional Data,IBM -,"Riyadh, Saudi Arabia ",Full Time
+Business Analyst,Inception -,"Dubai, United Arab Emirates ",Full Time
+"Manager, Platform Architecture",Ma'aden -,"Riyadh, Saudi Arabia ",Full Time
+Project Manager - KSA,Globant -,"Riyadh, Saudi Arabia ",Full Time
+Senior Manager - Strategic Accounts,Inception -,"Dubai, United Arab Emirates ",Freelance / Project
+Design Manager (Visual),Canonical -,"Makkah, Saudi Arabia ",Full Time
+Cyber Security Specialist,Imploy -,"Dubai, United Arab Emirates ",Full Time
+Senior React Native Developer (Arabic Speaker),Burjline Builders -,"Riyadh, Saudi Arabia ",Full Time
+Senior Technical Program Manager - Riyadh,Newlab -,"Riyadh, Saudi Arabia ",Full Time
+Head of of material management (Head of procurement),Ajax Systems -,"Dubai, United Arab Emirates ",Full Time
+Assistant Category Manager.In-House Bakery,Panda Retail Company – Savola Group -,"Makkah, Saudi Arabia ",Full Time
+Account Executive | Saudi Arabia,Harrison.ai -,"Riyadh, Saudi Arabia ",Full Time
+Senior Chief engg. Manager Civil SS,Larsen & Toubro -,"Riyadh, Saudi Arabia ",Full Time
+Education Program Manager (Efekta),EF Education First -,"Riyadh, Saudi Arabia ",Full Time
+Senior Project Manager (Tech),Energy Job Search -,"Dubai, United Arab Emirates ",Full Time
+WFM -Assistant Manager,Dicetek LLC -,"Dubai, United Arab Emirates ",Freelance / Project
+Sales Manager,Qureos -,"Dubai, United Arab Emirates ",Full Time
+Senior React Native Developer,Idaratech Platform - منصة إدارتك -,"Makkah, Saudi Arabia ",Full Time
+Operations Expert (Remote),PULSE -,"Riyadh, Saudi Arabia ",Full Time
+Remote Lead Manager Geomatics,Jobgether -,"Riyadh, Saudi Arabia ",Full Time
+Senior Client Manager,"NTT DATA, Inc. -","Riyadh, Saudi Arabia ",Full Time
+Multi-lingual Customer Success Manager,Global Payments Inc. -,"Dubai, United Arab Emirates ",Full Time
+Senior Amazon Ads Expert (Remote),Jobgether -,"Riyadh, Saudi Arabia ",Full Time
+Software Architect - Containers / Virtualisation,Canonical -,"Makkah, Saudi Arabia ",Full Time
+Sr. Engagement Manager - 11133,Exari Systems -,"Dubai, United Arab Emirates ",Full Time
+Manager - Greenfield Sales,Inception -,"Dubai, United Arab Emirates ",Freelance / Project
+Project Managers (Remote),PULSE -,"Riyadh, Saudi Arabia ",Full Time
+Senior Information Security GRC Specialist,"NTT DATA, Inc. -","Riyadh, Saudi Arabia ",Full Time
+Business Analyst (UAE National) | Dubai,Emirates NBD -,"Dubai, United Arab Emirates ",Full Time
+Research Assistant (Remote),Pulse Media -,"Dubai, United Arab Emirates ",Full Time
+RS and EO Project Manager,4EI -,"Dubai, United Arab Emirates ",Full Time
+Site Access Responsible,Capgemini Engineering -,"Riyadh, Saudi Arabia ",Full Time
+Work from Home - Media Search Analyst (Saudi Arabia),TELUS Digital -,"Riyadh, Saudi Arabia ",Part Time
+Business Development Representative (French-Speaking),Easygenerator -,"Dubai, United Arab Emirates ",Full Time
+Manager - Business Operations & Strategy,Analog -,"Dubai, United Arab Emirates ",Full Time
+Manager Service Delivery,C.H. Robinson -,"Dubai, United Arab Emirates ",Full Time
+KAM MARINE COATINGS – MIDDLE EAST,PPG -,"Dubai, United Arab Emirates ",Full Time
+IT Associate - Platinion,Boston Consulting Group (BCG) -,"Riyadh, Saudi Arabia ",Full Time
+Technology Strategy/Enterprise Architect Consultant,Accenture Middle East -,"Riyadh, Saudi Arabia ",Full Time
+Technology Strategy/Enterprise Architect Consultant – Banking Sector,Accenture Middle East -,"Riyadh, Saudi Arabia ",Full Time
+Technology Strategy/Enterprise Architect Consultant – Telecom Sector,Accenture Middle East -,"Riyadh, Saudi Arabia ",Full Time
+In-Building Solutions Regional Implementation Manager- C1,Capgemini Engineering -,"Riyadh, Saudi Arabia ",Full Time
+Lead Accounting & Financial Technology Consultant - Remote,Jobgether -,"Riyadh, Saudi Arabia ",Full Time
+Business Services Team Manager,Canonical -,"Dubai, United Arab Emirates ",Full Time
+remote Business Development Manager - REMOTE,Jobgether -,"Dubai, United Arab Emirates ",Full Time
+"Specialist, Asset Integrity &#038; Process Safety (Proj Support TM &#8211; Gas Ops",MyPetroCareer.com -,"Dubai, United Arab Emirates ",Full Time
+Customer Support Specialist (Remote),Pulse Media -,"Dubai, United Arab Emirates ",Full Time
+Cyber Security Specialist,RIME Platform -,"Riyadh, Saudi Arabia ",Full Time
+Senior Backend Developer - C#/.Net Technologies,Massil Technologies -,"Riyadh, Saudi Arabia ",Full Time
+Middle East Money & Power Editor - Dubai,Bloomberg -,"Dubai, United Arab Emirates ",Full Time
+Microwave Rollout Manager,Capgemini Engineering -,"Riyadh, Saudi Arabia ",Full Time
+Regional Sales Director,Illumio -,"Riyadh, Saudi Arabia ",Full Time
+Sr. Marketing & Sales Executive - Remote,Jobgether -,"Riyadh, Saudi Arabia ",Full Time
+Portworx -Kubernetes Storage Consultant,LETITBEX AI -,"Dubai, United Arab Emirates ",Full Time
+Senior Director Business Development - Public Sector,Publicis Sapient -,"Riyadh, Saudi Arabia ",Full Time
+Controller (REMOTE),Jobgether -,"Riyadh, Saudi Arabia ",Full Time
+Technical Delivery Manager,Analog -,"Dubai, United Arab Emirates ",Full Time
+Data Analytics Lead | Corporate Services | Group Tech & Digital Platforms,Al-Futtaim Automotive - الفطيم للسيارات -,"Dubai, United Arab Emirates ",Full Time
+Project Manager - Ubuntu Embedded Systems,Canonical -,"Makkah, Saudi Arabia ",Full Time
+Partner Solutions Architect (EMEA),Datadog -,"Dubai, United Arab Emirates ",Full Time
+Solutions Architect,Mindsets -,"Riyadh, Saudi Arabia ",Full Time
+Client Sales Manager - Infrastructure Solutions - Qatar,Lenovo -,"Dubai, United Arab Emirates ",Full Time
+"Client Sales Manager - Infrastructure Solutions - Abu Dhabi, UAE",Lenovo -,"Dubai, United Arab Emirates ",Full Time
+Research Scientist Intern,GenBio AI -,"Dubai, United Arab Emirates ",Full Time
+Remote Entry Level Systems Developer,Jobgether -,"Riyadh, Saudi Arabia ",Full Time
